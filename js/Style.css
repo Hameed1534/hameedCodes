@@ -1,0 +1,78 @@
+.container{
+    /* width: 70vh; */
+    height: 70vh;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    width: 60vh;
+    height: 60vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5vmin;
+    align-items: center;
+}
+.tap{
+    height: 19vmin;
+    width: 19vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 0 #252525;
+    color: rgb(213, 13, 13);
+    font-size: 8vmin;
+    background: #f8f8f8;
+
+}
+body{
+    background: rgb(7, 167, 182);
+    text-align: center;
+
+}
+#clr{
+    height: 5vmin;
+    width: 15vmin;
+    border-radius: 1rem;
+    border: none;
+    background-color: rgb(40, 18, 204);
+    color: aliceblue;
+}
+.cont{
+    height: 10vmin;
+}
+.but{
+    height: 5vmin;
+    width: 15vmin;
+    border-radius: 1rem;
+    border: none;
+    background-color: rgb(7, 220, 93);
+    color: aliceblue;
+}
+#msg{
+    font-size: 3.5vmin;
+    color: rgb(155, 49, 10);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hide{
+    display: none;
+}
+.draw{
+    align-items: center;
+}
+#dra{
+    font-size: 3.5vmin;
+    color: rgb(155, 49, 10);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hide1{
+    display: none;
+}
+.butn{
+    height: 5vmin;
+    width: 15vmin;
+    border-radius: 1rem;
+    border: none;
+    background-color: rgb(7, 220, 93);
+    color: aliceblue;
+}
