@@ -1,1 +1,1 @@
-I have created a TIC TAC TOE game 
+I created a Rock Paper Scissors game using HTML, CSS, and JavaScript. The game features a simple user interface where players can choose between rock, paper, or scissors. The game logic determines the winner based on the standard rules, and the result is displayed immediately. JavaScript handles user input, game logic, and updates the UI dynamically. The project is a basic implementation of event handling and conditional logic in web development.
